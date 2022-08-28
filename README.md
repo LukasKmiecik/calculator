@@ -1,2 +1,17 @@
-# calculator
+# Calculator
 First attemp at bilding a calculator
+#### Languages:
+- JavaScript
+- HTML
+- Sass
+- Css
+
+## Setup
+Clone this repo to your desktop and run `npm install` to install all the dependencies.
+
+### Usage 
+After you clone this repo to your desktop, go to its root directory and run `calcu.html`.
+This files open yours web browser. You can use calculator.
+
+#### License
+Open source license.
