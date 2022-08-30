@@ -7,7 +7,7 @@ First attemp at bilding a calculator
 - Css
 
 ## Setup
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
+Clone this repo to your desktop.
 
 ### Usage 
 After you clone this repo to your desktop, go to its root directory and run `calcu.html`.
