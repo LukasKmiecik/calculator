@@ -13,7 +13,7 @@ Clone this repo to your desktop.
 After you clone this repo to your desktop, go to its root directory and run `calcu.html`.
 This files open yours web browser. You can use calculator.
 Or 
-https://lukaskmiecik.github.io/calculator/
+https://lukaskmiecik.github.io/calculator
 
 #### License
 Open source license.
